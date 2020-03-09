@@ -1,4 +1,4 @@
-# computer-graphics-projects
+# Computer-Graphics-Project(s)
 
 Computer Graphics: Character Rigging and Geometry Hierarchy (project) from my Computer Graphics class at McGill University (COMP 557)
 
